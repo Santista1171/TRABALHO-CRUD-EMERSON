@@ -1,0 +1,1 @@
+preto;37;4;azul;25;12;vermelho;40;18;
